@@ -4,8 +4,8 @@ date: 2024-11-09 14:24:50
 updated: 2024-11-09 14:24:50
 tags: [CTF,Hackergame]
 categories: [笔记]
-thumbnail: /images/ctf/hackergame2024/1.jpg
-cover: /images/ctf/hackergame2024/1.jpg
+thumbnail: /images/ctf/hackergame2024/1.webp
+cover: /images/ctf/hackergame2024/1.webp
 toc: true
 ---
 
@@ -20,9 +20,9 @@ toc: true
 
 点击主页承办单位的链接，进入终端后执行命令即可找到。
 
-![命令行](/images/ctf/hackergame2024/image.png)
+![命令行](/images/ctf/hackergame2024/image.webp)
 
-![命令行](/images/ctf/hackergame2024/image-1.png)
+![命令行](/images/ctf/hackergame2024/image-1.webp)
 
 ## 猫咪问答
 
@@ -65,19 +65,19 @@ tokens = tokenizer.encode(html_content)
 print(f"Token 数量: {len(tokens)}")
 ```
 
-![Token 数量](/images/ctf/hackergame2024/image-3.png)
+![Token 数量](/images/ctf/hackergame2024/image-3.webp)
 
 ## 打不开的盒
 
 3D 查看器直接看。
 
-![3D查看](/images/ctf/hackergame2024/image-4.png)
+![3D查看](/images/ctf/hackergame2024/image-4.webp)
 
 ## 每日论文太多了！
 
 PDF 编辑移去遮挡即可获得。
 
-![论文](/images/ctf/hackergame2024/image-5.png)
+![论文](/images/ctf/hackergame2024/image-5.webp)
 
 ## 比大小王
 
@@ -177,7 +177,7 @@ s
 sh: 2: s: not found
 cat /flag
 ```
-![PowerfulShell](/images/ctf/hackergame2024/image-9.png)
+![PowerfulShell](/images/ctf/hackergame2024/image-9.webp)
 
 ## Node.js is Web Scale
 
@@ -194,7 +194,7 @@ cat /flag
 
 在 GET /execute 接口中，代码从 cmds 对象中获取命令：const cmd = cmds[key]; 。如果key不在cmds自身属性中，JavaScript 会沿原型链查找。由于 cmds 的原型链被污染，cmds[key] 可能获取到攻击者注入的命令。执行 execSync(cmd) 时，就会运行任意命令。
 
-![原型污染](/images/ctf/hackergame2024/image-8.png)
+![原型污染](/images/ctf/hackergame2024/image-8.webp)
 
 ## PaoluGPT
 
@@ -304,7 +304,7 @@ if s.check() == sat:
 
 通过分析代码，发现需要用到自定义 crc 校验值算法来求解，使其经过系列转换后输入能被解析成 ‘answer_c’ 。借用了一个模板实现，然后根据匹配的 hex 值来逐步爆破。
 
-![爆破](/images/ctf/hackergame2024/image-11.png)
+![爆破](/images/ctf/hackergame2024/image-11.webp)
 
 
 ```c
@@ -609,7 +609,7 @@ if __name__ == "__main__":
 
 binwalk 提取文件，发现第二个 zlib 文件中有两个 789c 开头，将第二个 789c 开头的部分提取出来，zlib 解压得到答案。
 
-![Text File](/images/ctf/hackergame2024/image-17.png)
+![Text File](/images/ctf/hackergame2024/image-17.webp)
 
 ## 链上转账助手
 
@@ -949,7 +949,7 @@ Data 3:0A0b0C0D0E0F1011
 
 写一个程序解数独就行了。
 
-![数独1](/images/ctf/hackergame2024/image-6.png)
+![数独1](/images/ctf/hackergame2024/image-6.webp)
 
 ```
 def is_valid(board, row, col, num):
@@ -1029,15 +1029,15 @@ snarkjs wtns export json witness.wtns public.json
 snarkjs groth16 prove sudoku.zkey witness.wtns proof.json public.json
 snarkjs groth16 verify verification_key.json public.json proof.json
 ```
-![数独2](/images/ctf/hackergame2024/image-10.png)
+![数独2](/images/ctf/hackergame2024/image-10.webp)
 
 ##  神秘代码2
 
 base64解第一行，结果末尾的字母表换表解第二行。
 
-![base64](/images/ctf/hackergame2024/image-15.png)
+![base64](/images/ctf/hackergame2024/image-15.webp)
 
-![换表](/images/ctf/hackergame2024/image-14.png)
+![换表](/images/ctf/hackergame2024/image-14.webp)
 
 ## 先不说关于我从零开始独自在异世界转生成某大厂家的 LLM 龙猫女仆这件事可不可能这么离谱，发现 Hackergame 内容审查委员会忘记审查题目标题了ごめんね，以及「这么长都快赶上轻小说了真的不会影响用户体验吗🤣」
 

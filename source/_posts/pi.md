@@ -4,8 +4,8 @@ date: 2024-04-28 19:53:45
 updated: 2024-06-04 15:53:45
 tags: [Raspberry Pi,开发板,硬件,嵌入式]
 categories: [笔记]
-thumbnail: /images/pi/0.jpg
-cover: /images/pi/0.jpg
+thumbnail: /images/pi/0.webp
+cover: /images/pi/0.webp
 toc: true
 ---
 树莓派是一个高度集成化的微型电脑，同时保留了GPIO接口，可以通过这些接口连接各种传感器、执行器等外设，实现各种功能。树莓派的操作系统可以通过SD卡进行安装，同时也支持通过USB接口连接硬盘、U盘等存储设备。
@@ -40,7 +40,7 @@ Operating temperature: 0 – 50 degrees C ambient
 使用官方提供的[Raspberry Pi Imager工具](https://www.raspberrypi.com/software/)，可以很方便的将系统镜像写入SD卡中，然后插入树莓派的SD卡槽中，连接电源，即可启动。
 
 <div style="text-align: center;">
-  <img src="/images/pi/1.png" alt="Raspberry Pi Imager" width="50%">
+  <img src="/images/pi/1.webp" alt="Raspberry Pi Imager" width="50%">
 </div>
 &nbsp;
 
@@ -69,7 +69,7 @@ gpu_freq=700
 ```
 重启后查看频率是否生效。
 <div style="text-align: center;">
-  <img src="/images/pi/2.png" alt="超频" width="50%">
+  <img src="/images/pi/2.webp" alt="超频" width="50%">
 </div>
 &nbsp;
 

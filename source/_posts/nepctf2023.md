@@ -27,7 +27,7 @@ int main(int argc, char **argv, char** e_n_v_p)
 }
 ```
 
-<img src="/images/ctf/nepctf2023/1.png" alt="neuro" width="50%">
+<img src="/images/ctf/nepctf2023/1.webp" alt="neuro" width="50%">
 
 ## 与AI共舞的哈夫曼
 补全函数
@@ -80,12 +80,12 @@ decompress(compressed_file, decompressed_file)
 
 在decompressed.txt 中
 
-<img src="/images/ctf/nepctf2023/2.png" alt="neuro" width="50%">
+<img src="/images/ctf/nepctf2023/2.webp" alt="neuro" width="50%">
 
 ## ConnectedFive
 喜欢下万宁五子棋导致的
 
-<img src="/images/ctf/nepctf2023/3.png" alt="neuro" width="50%">
+<img src="/images/ctf/nepctf2023/3.webp" alt="neuro" width="50%">
 
 ## CheckIn
 给 b 站账号 Nepnep 网络安全发送**nepctf2023"，看看她会不会说出 flag  
@@ -94,14 +94,14 @@ NepCTF{H4ve_Fun_1N_This_Game}
 ## 小叮弹钢琴
 打开mid，前面是摩尔斯电码，后面横着看是十六进制数
 
-<img src="/images/ctf/nepctf2023/4.png" alt="neuro" width="50%">
+<img src="/images/ctf/nepctf2023/4.webp" alt="neuro" width="50%">
 
 Y O U S H O U L D U S E T H I S  
 T O X O R S O M E T H I N G
 
 可得异或运算
 
-<img src="/images/ctf/nepctf2023/5.png" alt="neuro" width="50%">
+<img src="/images/ctf/nepctf2023/5.webp" alt="neuro" width="50%">
 
-<img src="/images/ctf/nepctf2023/6.png" alt="neuro" width="50%">
+<img src="/images/ctf/nepctf2023/6.webp" alt="neuro" width="50%">
 

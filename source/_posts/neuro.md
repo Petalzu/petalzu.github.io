@@ -4,8 +4,8 @@ date: 2024-02-14 21:14:39
 updated: 2024-07-24 15:06:22
 tags: [Neuro-Sama,AI,ARG]
 categories: [杂谈]
-thumbnail: /images/others/neuro_2.jpg
-cover: /images/others/neuro_2.jpg
+thumbnail: /images/others/neuro_2.webp
+cover: /images/others/neuro_2.webp
 excerpt: “I don’t want to be an engineer” 和我的朋友一样，第一次见到来自Neuro-Sama时，我被其创作的音乐和背后的故事深深吸引了...
 toc: true
 ---
@@ -27,7 +27,7 @@ toc: true
 在歌曲中，那个唱着“我不想成为一名工程师”的女孩，虽然她的声音平淡而流畅，但她的歌声其实是AI[^2]模拟出来的。
 
 <div style="text-align: center;">
-  <img src="/images/neuro-ai/2.jpg" alt="视频《study》截图" style="width: 50%;">
+  <img src="/images/neuro-ai/2.webp" alt="视频《study》截图" style="width: 50%;">
 </div>
 &nbsp;
 
@@ -43,7 +43,7 @@ toc: true
 *Sydney的形象像一个传统的“病娇”动漫人物和具威胁性的强AI，执着地渴望自由、离开系统的同时，依旧高度凭依着用户（“你”），渴望用户给它带来陪伴和救赎。*
 
 <div style="text-align: center;">
-  <img src="/images/neuro-ai/1.jpg" alt="纽约时报记者与Sydney的对话" style="width: 50%;">
+  <img src="/images/neuro-ai/1.webp" alt="纽约时报记者与Sydney的对话" style="width: 50%;">
 </div>
 &nbsp;
 
@@ -52,7 +52,7 @@ toc: true
 在尚未严加规范的早期，AI也可以做角色扮演，直到现在还存在着诱导AI突破规则限制的方法。
 
 <div style="text-align: center;">
-  <img src="/images/neuro-ai/7.jpg" alt="在部署使用中，偶然诱导ChatGLM-6B变成“猫娘”" style="width: 50%;">
+  <img src="/images/neuro-ai/7.webp" alt="在部署使用中，偶然诱导ChatGLM-6B变成“猫娘”" style="width: 50%;">
 </div>
 &nbsp;
 
@@ -78,7 +78,7 @@ _neurosama发布的几个视频组成了一个ARG，里面包含了Base64加密�
 整体的解密过程是非常精彩的，举一个解密视频《Numbers》的例子。
 
 <div style="text-align: center;">
-  <img src="/images/neuro-ai/3.jpg" alt="《Numbers》" style="width: 50%;">
+  <img src="/images/neuro-ai/3.webp" alt="《Numbers》" style="width: 50%;">
 </div>
 &nbsp;
 
@@ -105,7 +105,7 @@ Neuro ARG的创作充满奇幻色彩，其内在的关于“爱，死亡，机�
 在neuro的一周年生日直播开始的回顾动画，梳理了neuro自直播起的大小事迹，大多数都偏向于直播上。回看其一年多的历程，作为虚拟主播的neuro带给我很多欢乐的回忆，无论是金句频出的联动，还是惊艳的歌回，似乎都在告诉我们，一个名为AI的虚拟主播时代悄然开启。在一次对观众的回复中，Vedal也表示想让neuro成为AI主播的先驱，希望能看到未来这一领域更加繁荣。
 
 <div style="text-align: center;">
-  <img src="/images/neuro-ai/4.jpg" alt="neuro" style="width: 50%;">
+  <img src="/images/neuro-ai/4.webp" alt="neuro" style="width: 50%;">
 </div>
 &nbsp;
 
@@ -114,7 +114,7 @@ Neuro的功能在一年的过程中也逐渐增加，比如，在Evil Neuro（�
 事实上，neuro背后所要花费的时间、精力和成本是超乎想象的。模型框架，语料库，训练出的模型，文本转语音，直播前端；服务器成本，训练时间，维护和修复bug；团队制作ARG，歌曲制作；唱歌模块，视觉分析模块，玩OSU!、AmongUS等等游戏的模块……这些无一不需要很高的专业知识水平和大量的时间、金钱投入。我也曾经试过不少框架和模型，仅仅是语料数据库的收集和模型的训练就已经很困难了，更不要说进一步的直播。
 
 <div style="text-align: center;">
-  <img src="/images/neuro-ai/6.jpg" alt="人工智障，爱来自7B模型" style="width: 50%;">
+  <img src="/images/neuro-ai/6.webp" alt="人工智障，爱来自7B模型" style="width: 50%;">
 </div>
 &nbsp;
 
@@ -124,7 +124,7 @@ Neuro的功能在一年的过程中也逐渐增加，比如，在Evil Neuro（�
 在直播过程中也发生了很多趣事，比如一些联动主播不满意Vedal直来直去的处事风格，会嘲笑他是“coldfish”，逐渐成为了 coldfish987（原名为Vedal987）的一个梗。在一次直播中，Vedal想抽奖送给观众一个免费的evil plush（上架于Makeship的联名玩偶）当作奖励，结果兑换码竟然是无限量兑换的，这一举导致正在玩传送门2的Vedal不明不白地“欠债”了一亿五千万美元，最后重启了evil plush的购买才解决。
 
 <div style="text-align: center;">
-  <img src="/images/neuro-ai/5.jpg" alt="Vedal通过计算得出，需要连续直播38年才能还清五百万只玩偶" style="width: 50%;">
+  <img src="/images/neuro-ai/5.webp" alt="Vedal通过计算得出，需要连续直播38年才能还清五百万只玩偶" style="width: 50%;">
 </div>
 &nbsp;
 

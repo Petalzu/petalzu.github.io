@@ -4,8 +4,8 @@ date: 2024-01-20 18:39:11
 updated: 2024-01-20 18:39:11
 tags: [书评]
 categories: [杂谈]
-thumbnail: /images/others/hacker&painter.jpg
-cover: /images/others/hacker&painter.jpg
+thumbnail: /images/others/hacker&painter.webp
+cover: /images/others/hacker&painter.webp
 toc: true
 ---
 看完这本书，让我唯一感到后悔的是：没有早点开始看这本书。<!-- more -->是的，仅仅是为了完成一篇所谓的“报告”，为了给学校下发给学生的任务交差，我打开推荐书目选单，决计要选一本书作为任务看完。在偶然间，我看到了这个书名，抱着“即使是做样子也要选一个看上去有意思的目标”这种想法，我开始阅读它，但几乎是立刻，我就被它吸引了，因为它的第一小节题名是：“为什么书呆子不受欢迎”。

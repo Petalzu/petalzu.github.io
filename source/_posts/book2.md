@@ -4,8 +4,8 @@ date: 2025-02-21 22:48:45
 updated: 2025-02-21 22:48:45
 tags: [书评]
 categories: [杂谈]
-thumbnail: /images/others/complex.png
-cover: /images/others/complex.png
+thumbnail: /images/others/complex.webp
+cover: /images/others/complex.webp
 toc: true
 ---
 

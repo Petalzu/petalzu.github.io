@@ -4,15 +4,15 @@ date: 2025-02-09 23:53:12
 updated: 2025-02-09 23:53:12
 tags: [HPC,超算,HPCgame]
 categories: [笔记]
-thumbnail: /images/hpc/hpcgame2025/0.jpg
-cover: /images/hpc/hpcgame2025/0.jpg
+thumbnail: /images/hpc/hpcgame2025/0.webp
+cover: /images/hpc/hpcgame2025/0.webp
 toc: true
 ---
 
 今年如约参加了第二届 [PKU HPCGame](https://hpcgame.pku.edu.cn/org/2df8f692-0316-4682-80cd-591732b1eda6/contest/74f9ea35-b9b9-460e-8584-d8f829b5d9dc)，精彩的题目和更加易于使用的集群环境的更新让人耳目一新，尤其是画板题目的各种梗（
 <!-- more -->
 
-![画板](/images/hpc/hpcgame2025/3.png)  
+![画板](/images/hpc/hpcgame2025/3.webp)  
 （Neuro Sama，Techmino，tetr.io，还有未画完的芙兰都是我画的）
 
 本次比赛的一大遗憾是最后才发现 PVC 挂载到 root 时会导致 .bashrc 被覆盖导致 module 环境变量丢失，间接导致 J 题没有做出来。但总体来说，成绩比去年稍微好一些，还需要继续努力。本次比赛首次设置了 WriteUp 的提交，因此正好方便了我整理这篇文章。
@@ -128,7 +128,7 @@ CXL架构下，传输延迟降至10μs，且数据访问可直接完成，无需
 - 128 2048 （Introduction to SVE2 - Arm Developer）
 - 3 0.5 （AI给了几个数字，试过去的）
 - BCE
-- 5.0.6 3.0.7 ![官网文档](/images/hpc/hpcgame2025/1.png)
+- 5.0.6 3.0.7 ![官网文档](/images/hpc/hpcgame2025/1.webp)
 - DABC （注意到最右边是C，最左边是D）
 - 53124 （注意到bisheng是编译器，kml是数学库，kblas是线代库）
 - 2.0 （注意到传统架构单次批处理0.2s，CXL是0.1s）
@@ -1004,7 +1004,7 @@ end
 
 ### 题目
 
-![刀锐奶化](/images/hpc/hpcgame2025/2.png)
+![刀锐奶化](/images/hpc/hpcgame2025/2.webp)
 
 ### 题解
 

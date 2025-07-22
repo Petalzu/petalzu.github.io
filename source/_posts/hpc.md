@@ -4,6 +4,8 @@ date: 2024-04-23 20:06:21
 updated: 2024-04-23 20:06:21
 tags: [HPC,超算,mpi,openmp,cuda,openblas,makefile,cmake]
 categories: [笔记]
+thumbnail: /images/hpc/0.webp
+cover: /images/hpc/0.webp
 toc: true
 ---
 
@@ -457,7 +459,7 @@ https://lab.cs.tsinghua.edu.cn/hpc/doc/faq/binding/#mpi-openmp
 进程/线程亲和度应该指其在指定某个CPU核上尽量长时间运行而不被迁移。比如，linux内核调度器会倾向于减少进程/线程迁移；或者将进程/线程直接绑定到CPU核上。  
 
 查看机器的NUMA结构如下：
-![NUMA](/images/hpc/numa.png)  
+![NUMA](/images/hpc/numa.webp)  
 
 Intel的openmp有一个特殊的api实现绑定  
 https://www.intel.com/content/www/us/en/docs/cpp-compiler/developer-guide-reference/2021-8/thread-affinity-interface.html  
@@ -488,7 +490,7 @@ mpirun -np 4 -x OMP_NUM_THREADS=4 -x OMP_PROC_BIND=close -x  OMP_PLACES=cores  -
 |  3  | 16.1317 | 15.9645 | 8.18908 | 8.13617 | 4.47034 |
 |  4  | 16.0732 | 15.9364 | 8.1226  | 8.11981 | 4.46143 |
 
-![bound](/images/hpc/bound.png)
+![bound](/images/hpc/bound.webp)
 
 在测试中，每个线程绑定到一个 core，线程在 socket 上连续分布（分别绑定到 core 0,1,2,3）  
 根据结果所示，其耗时均值均略小于未绑定
@@ -789,7 +791,7 @@ nvcc -I../inc matrix_cal_cuda.cu -o matrix_cal_cuda -arch sm_86
 ./matrix_cal_cuda
 /home/
 ```
-![nsight](/images/hpc/nsight.png)
+![nsight](/images/hpc/nsight.webp)
 
 #### 对分析报告的简短理解
 

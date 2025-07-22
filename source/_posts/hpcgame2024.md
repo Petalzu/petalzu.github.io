@@ -4,8 +4,8 @@ date: 2024-01-30 18:02:04
 updated: 2024-01-30 18:02:04
 tags: [HPC,超算,HPCgame]
 categories: [笔记]
-thumbnail: /images/others/hpcgame-2024.jpg
-cover: /images/others/hpcgame-2024.jpg
+thumbnail: /images/hpc/pcgame2024/hpcgame-2024.webp
+cover: /images/hpc/hpcgame2024/hpcgame-2024.webp
 toc: true
 ---
 
@@ -97,7 +97,7 @@ makefile和cmakefile编写，套模板即可。
 非常棒的知识问答，爱来自Neur0_5ama。
 
 <div style="text-align: center;">
-  <img src="/images/others/neuro_1.jpeg" alt="neuro" style="width: 50%;">
+  <img src="/images/others/neuro_1.webp" alt="neuro" style="width: 50%;">
 </div>
 &nbsp;
 

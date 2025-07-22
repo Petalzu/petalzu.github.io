@@ -4,8 +4,8 @@ date: 2024-03-09 16:54:03
 updated: 2024-03-09 16:54:03
 tags: [嵌入式,开发板,FPGA,硬件]
 categories: [笔记]
-thumbnail: /images/fpga/0.jpg
-cover: /images/fpga/0.jpg
+thumbnail: /images/fpga/0.webp
+cover: /images/fpga/0.webp
 toc: true
 ---
 说是从零开始，其实也不然，因为FPGA是一定接触过的；然而正好符合Re0的主题，因此也在某种程度上也没问题。一些机缘巧合，我从社区借到了两块板子，NXP的FRDM-KL25Z和普中HC6800-ES V2.0，单纯出于兴趣，我决定玩一玩。
@@ -17,7 +17,7 @@ FRDM-KL25Z有[官网页面](https://www.nxp.com.cn/design/design-center/developm
 需要注意的是，需要提前下载驱动[P&E OpenSDA驱动](www.pemicro.com/opensda)。
 
 <div style="text-align: center;">
-  <img src="/images/fpga/1.jpg" alt="FRDM-KL25Z" style="width: 50%;">
+  <img src="/images/fpga/1.webp" alt="FRDM-KL25Z" style="width: 50%;">
 </div>
 &nbsp;
 
@@ -28,7 +28,7 @@ FRDM-KL25Z有[官网页面](https://www.nxp.com.cn/design/design-center/developm
 NXP社区有社区开发者[入门参考的帖子](https://www.nxpic.org.cn/module/forum/thread-549104-1-1.html)，官方也有教程：[FRDM-KL25Z快速入门](https://www.nxp.com.cn/document/guide/getting-started-with-the-frdm-kl25z:NGS-FRDM-KL25Z)。
 
 <div style="text-align: center;">
-  <img src="/images/fpga/0-1.jpg" alt="SDK" style="width: 50%;">
+  <img src="/images/fpga/0-1.webp" alt="SDK" style="width: 50%;">
 </div>
 &nbsp;
 
@@ -37,7 +37,7 @@ FRDM-KL25Z的烧写则极为简单，在其官网介绍页中也提到了它的�
 在quick start package的Precompiled Examples中，提供比如[FRDM-KL25Z快速入门](https://www.nxp.com.cn/document/guide/getting-started-with-the-frdm-kl25z:NGS-FRDM-KL25Z)文档中所提到的”气泡水平仪“演示，可以用板载加速度传感器调整灯光。当板水平时，RGB LED熄灭；当板倾斜时，红色或绿色LED根据X轴和Y轴上的倾斜度逐渐发亮。还有一些如利用电容板/按钮调整灯光闪烁频率的示例，用于检验其功能。
 
 <div style="text-align: center;">
-  <img src="https://www.nxp.com.cn/assets/images/en/photography/FRDM-KL25Z-DEMO.jpg" alt="演示" style="width: 50%;">
+  <img src="https://www.nxp.com.cn/assets/images/en/photography/FRDM-KL25Z-DEMO.webp" alt="演示" style="width: 50%;">
 </div>
 &nbsp;
 
@@ -46,7 +46,7 @@ FRDM-KL25Z的烧写则极为简单，在其官网介绍页中也提到了它的�
 ## HC6800-ES V2.0
 
 <div style="text-align: center;">
-  <img src="/images/fpga/2.jpg" alt="HC6800-ES V2.0" style="width: 50%;">
+  <img src="/images/fpga/2.webp" alt="HC6800-ES V2.0" style="width: 50%;">
 </div>
 &nbsp;
 

@@ -237,7 +237,7 @@ petalzu.top #替换为你的域名
 创建如下规则，并对表达式或选项进行如下配置：
 
 <div style="text-align: center;">
-  <img src="/images/page/1.jpg" alt="配置" width="50%">
+  <img src="/images/page/1.webp" alt="配置" width="50%">
 </div>
 &nbsp;
 
