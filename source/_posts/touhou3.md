@@ -202,4 +202,4 @@ toc: true
 
 
 
-此文被[幻想战闻录鬼之章](https://book.zri.moe/book/694)评委悠霖推荐
+[幻想战闻录鬼之章](https://book.zri.moe/book/694)评委推荐 By 悠霖
