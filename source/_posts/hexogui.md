@@ -192,3 +192,12 @@ CI 目标是：打 tag 后自动构建三平台并发布 Release。
 - **Windows `spawn EINVAL`**：尽量避免直接 spawn 不确定的命令名，使用 `cmd.exe /c` 或 `npx` 这类更稳的入口，并确保 `cwd` 正确。
 - **预览偶发拒绝连接**：不是 Hexo 真的坏了，而是 UI 请求太早；加 ready 探测能把噪声压下去。
 - **CI 自动 publish 的 token 问题**：构建阶段统一 `--publish never`，发布阶段集中在 release job。
+
+
+## 项目地址
+
+[
+HexoGUI on GitHub](
+  https://github.com/Petalzu/HexoGUI
+)
+
